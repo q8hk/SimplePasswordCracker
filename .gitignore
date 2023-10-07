@@ -1,0 +1,39 @@
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore system-specific files
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+__pycache__/
+
+# Ignore environment-specific files
+.env
+
+# Ignore virtual environment directories (if using virtualenv or venv)
+venv/
+env/
+*.egg-info/
+
+# Ignore project-specific directories
+__pycache__/
+.idea/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore VS Code settings (if using Visual Studio Code)
+.vscode/
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore project-specific files
+password.txt  # Replace with your actual password file if applicable
+
