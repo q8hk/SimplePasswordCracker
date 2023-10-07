@@ -47,6 +47,3 @@ Contributions are welcome! If you have any improvements or suggestions, please o
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-You can now copy this entire block and paste it into your README.md file.
-
